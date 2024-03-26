@@ -27,6 +27,16 @@
   </a>
 </div>
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,kotlin,dart,python,androidstudio,firebase,figma,git,r,github" />
+    <br>
+    <!-- Adding a second line for additional clarity and spacing -->
+    <img src="https://skillicons.dev/icons?i=mongodb,spring,flask,mysql" />
+</div>
+
+
 
 <!--
 **thuddo23/thuddo23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
